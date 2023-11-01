@@ -1,16 +1,46 @@
-### Hi there 👋
 
-<!--
-**LucasEmir/LucasEmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola!
+Soy Lucas Corvalán, un programador junior con conocimientos en JavaScript, TypeScript, Angular, Node, Java y bases de datos SQL.
 
-Here are some ideas to get you started:
+Experiencia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript:
+
+Desarrollo de aplicaciones web.
+Uso de librerías y frameworks como Vue y Angular
+Programación orientada a objetos.
+
+TypeScript:
+
+Desarrollo de aplicaciones web.
+Uso de librerías y frameworks como Vue y Angular
+Programación orientada a objetos.
+
+Angular:
+
+Desarrollo de aplicaciones web SPA.
+Uso de librerías y componentes como Angular Material y Angular CLI.
+
+Node:
+
+Desarrollo de aplicaciones web.
+Uso de librerías y frameworks como Express, NestJS y MongoDB.
+
+Java:
+
+Desarrollo de aplicaciones web.
+Uso de librerías y frameworks como Spring Boot y Hibernate.
+
+Bases de datos SQL:
+
+MySQL, PostgreSQL y Oracle
+SQL Server
+
+
+Contacto:
+
+lucas.emir.87@gmail.com
+
+¡Gracias por visitar mi perfil!
+
+
